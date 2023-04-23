@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832069763225",
+    "firebase_url": "https://edenchat-82a86-default-rtdb.firebaseio.com",
+    "project_id": "edenchat-82a86",
+    "storage_bucket": "edenchat-82a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832069763225:android:2c6e453a308461c0063808",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832069763225-tcolct0m9avhu3dsr33mbid7bohakrpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAekNa2IOop7KX-tfUCwdITflBDm1dih6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832069763225-tcolct0m9avhu3dsr33mbid7bohakrpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
